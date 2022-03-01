@@ -1,2 +1,3 @@
-# marun-ml
-Homeworks and  Projects in Machine Learning Course 
+# CSE4088_Machine_Learning
+
+Homeworks in Machine Learning Course 
